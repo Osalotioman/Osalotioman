@@ -28,6 +28,7 @@ Tired of adding stuff...
 14. Always by Jude Deveraux.
 15. Forever and Always by Jude Deveraux.
 16. Three Body Problem by Liu Cixin.
+    ...
 
-## I tried to do some writing of my own checkout [mywebsite](https://osalotioman.netlify.app).
+## I tried to do some writing of my own checkout [mywebsite](https://osalotioman.github.io/).
 Disclaimer: I did not go that far, so many unfinished novels, the one I actually did finish is not on the site. I hope to update the site soon though.
