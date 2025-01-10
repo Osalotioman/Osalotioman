@@ -1,5 +1,7 @@
 $$e^{i\pi} = -1$$
 
+Contact: osalotioman@gmail.com
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osalotioman&show_icons=true&locale=en&layout=compact" alt="Osalotioman" /></p>
 
