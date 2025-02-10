@@ -5,8 +5,6 @@ $$e^{i\pi} = -1$$
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Osalotioman.readme)
 -->
-Contact: osalotioman@gmail.com
-
 
 
 <p align="center">
@@ -17,3 +15,4 @@ Contact: osalotioman@gmail.com
   <img src="https://github-readme-stats.vercel.app/api?username=Osalotioman&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+Contact: osalotioman@gmail.com
