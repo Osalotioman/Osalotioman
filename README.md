@@ -1,5 +1,9 @@
 $$e^{i\pi} = -1$$
 
+[![Osalotioman's github stats](https://github-readme-stats.vercel.app/api?username=Osalotioman&show_icons=true&theme=cobalt))](https://github.com/Osalotioman/github-readme-stats)
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Osalotiomzn.readme)
 Contact: osalotioman@gmail.com
 
 <!--
