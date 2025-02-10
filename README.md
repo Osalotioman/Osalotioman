@@ -8,19 +8,12 @@ $$e^{i\pi} = -1$$
 Contact: osalotioman@gmail.com
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top GitHub Stats</title>
-</head>
-<body>
-    <p>
-        <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osalotioman&show_icons=true&locale=en&layout=compact" alt="Osalotioman" />
-    </p>
-    <p>
-        <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api?username=Osalotioman&show_icons=true&locale=en" alt="Osalotioman" />
-    </p>
-</body>
-</html>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osalotioman&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Osalotioman&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
