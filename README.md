@@ -8,11 +8,11 @@ $$e^{i\pi} = -1$$
 
 <!---->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osalotioman&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osalotioman&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osalotioman&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Osalotioman&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" />
 </p>
 <!---->
 Contact: osalotioman@gmail.com
