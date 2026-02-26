@@ -1,3 +1,5 @@
+Hello 👋, welcome to my GitHub profile.
+
 $$i \hbar \frac{\partial}{\partial t} \Psi(x,t) 
 = -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} \Psi(x,t) + V(x) \Psi(x,t)$$
 <!-- $$\rho \left( \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla)\mathbf{u} \right) = -\nabla p + \mu \nabla^2 \mathbf{u}$$ -->
