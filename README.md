@@ -22,8 +22,13 @@ Contact: osalotioman@gmail.com
   <img src="https://github-readme-stats.vercel.app/api?username=Osalotioman&show_icons=true&locale=en&theme=white" alt="GitHub Stats" />
 
 -->
-
-<p align="center">
+<a href="#gh-dark-mode-only">
+  <img align="right" src="https://readme-stats-v.vercel.app/api?username=Osalotioman&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
+</a>
+<a href="#gh-light-mode-only">
+  <img align="right" src="https://readme-stats-v.vercel.app/api?username=Osalotioman&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
+</a>
+<p align="left"> <!-- center -->
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Osalotioman&theme=dark&hide_border=true" alt="Osalotioman's GitHub Streak" />
   </a>
