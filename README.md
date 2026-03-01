@@ -8,29 +8,19 @@ $$i \hbar \frac{\partial}{\partial t} \Psi(x,t)
 Contact: osalotioman@gmail.com
 
 
-
-<!--
-[![Osalotioman's github stats](https://github-readme-stats.vercel.app/api?username=Osalotioman&show_icons=true&theme=cobalt)](https://github.com/Osalotioman/github-readme-stats)
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=Osalotioman.readme)
-
-
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Osalotioman&show_icons=true&locale=en&theme=white" alt="GitHub Stats" />
-
--->
 <p aligin="center">
-<a href="#gh-dark-mode-only">
-  <img align="center" src="https://readme-stats-v.vercel.app/api?username=Osalotioman&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
-</a>
-<a href="#gh-light-mode-only">
-  <img align="center" src="https://readme-stats-v.vercel.app/api?username=Osalotioman&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
-</a>
+  <a href="#gh-dark-mode-only">
+    <img src="https://readme-stats-v.vercel.app/api?username=Osalotioman&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
+  </a>
 </p>
-<p align="center"> <!-- center -->
+
+<p aligin="center">
+  <a href="#gh-light-mode-only">
+    <img src="https://readme-stats-v.vercel.app/api?username=Osalotioman&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
+  </a>
+</p>
+
+<p align="center"> 
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Osalotioman&theme=dark&hide_border=true" alt="Osalotioman's GitHub Streak" />
   </a>
