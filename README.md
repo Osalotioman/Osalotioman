@@ -7,7 +7,7 @@ $$i \hbar \frac{\partial}{\partial t} \Psi(x,t)
 <!-- This is the evolution equation for the Riemannian metric gijgij​ on a manifold under Ricci curvature. -->
 Contact: osalotioman@gmail.com
 
-
+<!--
 <p align="center">
   <a href="#gh-dark-mode-only">
     <img src="https://readme-stats-v.vercel.app/api?username=Osalotioman&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
@@ -25,3 +25,4 @@ Contact: osalotioman@gmail.com
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Osalotioman&theme=dark&hide_border=true" alt="Osalotioman's GitHub Streak" />
   </a>
 </p>
+-->
